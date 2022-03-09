@@ -1,0 +1,16 @@
+tr {
+  text-align: center;
+}
+
+td {
+  border: solid black 1px;
+}
+
+tr td table {
+  display: flex;
+  justify-content: center;
+}
+
+tr td table tbody tr td {
+  border: none;
+}
